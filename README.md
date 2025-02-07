@@ -3,4 +3,6 @@ Everything about my own [Xray-Core](https://github.com/XTLS/Xray-core) tools , c
 
 [official document](https://xtls.github.io/) 
 
-Special thanks to [RPRX](https://github.com/RPRX)
+Special thanks list 
+[RPRX](https://github.com/RPRX)
+[chika0801](https://github.com/chika0801/Xray-examples)
